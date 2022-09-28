@@ -1,0 +1,10 @@
+.main_div {
+  height: auto;
+  background-color: orange;
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+  .main_div {
+    height: auto;
+  }
+}
