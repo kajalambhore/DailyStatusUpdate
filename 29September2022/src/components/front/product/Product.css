@@ -1,0 +1,33 @@
+.main_div {
+  height: auto;
+  background-color: orange;
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+  .main_div {
+    height: auto;
+  }
+}
+
+.card {
+  margin: 30px;
+  box-shadow: 11px 13px 41px 4px rgba(242, 56, 56, 1);
+}
+.card_image {
+  height: 200px;
+  width: 200px;
+}
+
+.addtocart_button:hover {
+  background-color: brown !important;
+}
+.addtocart_button:active {
+  transform: translateY(2px);
+}
+.nav_link {
+  color: black !important;
+  font-size: 30px !important;
+}
+.nav_link:hover {
+  border-bottom: 2px solid red;
+}

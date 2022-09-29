@@ -1,0 +1,14 @@
+.cart {
+  padding-right: 20px;
+  padding-left: 30px;
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+}
+.cart-length {
+  margin: 3px;
+  font-size: 14px;
+  font-weight: 700;
+  vertical-align: super;
+  color: #fdd101;
+}
