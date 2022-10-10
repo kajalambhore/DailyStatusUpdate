@@ -1,0 +1,14 @@
+.custom-form{
+    width: 400px;
+    height: auto;
+    margin: 20px auto;
+  }
+  .label{
+    font-weight:600;
+    font-size: 20px;
+  }
+  .input-add-btn{
+    display: flex;
+  }
+  
+  
